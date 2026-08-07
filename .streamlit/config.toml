@@ -1,0 +1,9 @@
+[theme]
+# Forces the core app frame (including the top navigation bar) to Light mode
+base = "light"
+
+# Customizing theme variables to match your application palette
+primaryColor = "#0d9488"
+backgroundColor = "#f8fafc"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1e293b"
