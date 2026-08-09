@@ -273,5 +273,3 @@ This approach can help streamline repetitive specification tasks while maintaini
 
 **Live Demo:**
 https://clinical-trial-mockshell.streamlit.app/
-
----
