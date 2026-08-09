@@ -224,16 +224,6 @@ The application will open in your browser.
 
 ---
 
-## 🚀 Live Demo
-
-Try the deployed application:
-
-**https://clinical-trial-mockshell.streamlit.app/**
-
-The live application provides a browser-based interface for uploading SAP documents and generating MockShell outputs.
-
----
-
 ## 📥 Input
 
 The application accepts:
