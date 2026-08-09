@@ -273,5 +273,3 @@ This approach can help streamline repetitive specification tasks while maintaini
 
 **Live Demo:**
 https://clinical-trial-mockshell.streamlit.app/
-**Source Code:**
-https://github.com/Bhavadharani-2306/Clinical-Trial-MockShell-Generator
