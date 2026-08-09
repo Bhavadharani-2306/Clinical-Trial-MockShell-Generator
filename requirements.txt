@@ -2,4 +2,6 @@ streamlit
 groq
 PyMuPDF
 python-docx
+openpyxl
+fpdf2
 altair
